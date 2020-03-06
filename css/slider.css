@@ -1,0 +1,69 @@
+
+/* 轮播图 */
+
+.luowl-slider {
+    position:relative;
+}
+
+.middle_right {
+    margin: 10px;
+}
+
+.luowl-sliders img {
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.luowl-slider .luowl-control-nav {
+    position:absolute;
+    bottom:10px;
+    right:0px;
+    z-index:5;
+    padding: 0;
+}
+.luowl-slider .luowl-control-nav li {
+    cursor:pointer;
+    width:10px;
+    height:10px;
+    border:1px solid #cccccc;
+    float:left;
+    list-style:none;
+    background:#cccccc;
+    bottom:0;
+    text-align:center;
+    margin:0px 5px 0px 0px;
+}
+.luowl-slider-icon {
+    width:30px;
+    height:100px;
+    font-size:40px;
+    line-height:100px;
+    text-align:center;
+    color:#f4f4f4;
+    position:absolute;
+    top:90px;
+    cursor:pointer;
+    z-index:99;
+    opacity:0.4;
+}
+
+.luowl-right-0 {
+    position:absolute;
+    right: 20px;
+}
+.luowl-left-0 {
+    position:absolute;
+    left: 0;
+}
+
+.luowl-slider .luowl-control-nav .luowl-active {
+    background: #fff;
+    border: 1px solid #ffffff;
+    height: 20px;
+    position: relative;
+    bottom: 10px;
+}
+
+.luowl-slider-icon:hover {
+    color:black;
+}

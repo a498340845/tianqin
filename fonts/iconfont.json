@@ -1,0 +1,23 @@
+{
+  "id": "1672224",
+  "name": "tianqin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3402483",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "12561898",
+      "name": "铃铛",
+      "font_class": "lingdang",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}
